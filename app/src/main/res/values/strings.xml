@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Camera Photos Permissions</string>
+
+    <string name="image_description">Imagem a ser selecionada pelo usuário</string>
+    <string name="select_image">Selecione uma imagem</string>
+    <string name="tirar_foto_btn">tirar uma foto</string>
+</resources>
